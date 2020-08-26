@@ -7,8 +7,7 @@ It's is an Apollo Graphql Server created using typescript which uses postgres as
 # Check it Out
 GraphQL
 https://communityfortb.herokuapp.com
-Express API
-https://sdgfortb.herokuapp.com/
+
 
 ## Client
 

@@ -2,6 +2,11 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/15d85d0eaa194682ae57618b0bfe2582)](https://www.codacy.com/gh/BuildForSDGCohort2/Team-Techbuzs-Backend?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BuildForSDGCohort2/Team-Techbuzs-Backend&amp;utm_campaign=Badge_Grade)
 
+[GraphQL]
+(https://communityfortb.herokuapp.com)
+
+[Express API]
+(https://sdgfortb.herokuapp.com/)
 
 ###  Features
 
