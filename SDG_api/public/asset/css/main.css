@@ -13,7 +13,7 @@
     font-weight: 300;
     font-style: italic
 }
-
+/* 
 @font-face {
     font-family: Apercu;
     src: url(../fonts/apercu/Apercu-Regular.eot);
@@ -153,7 +153,7 @@ img {
 strong {
     font-weight: 700;
     color: #36363c
-}
+} */
 
 .emoji {
     display: inline-block;
@@ -337,12 +337,12 @@ strong {
     display: none
 }
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
     #top-button {
         bottom: 20px;
         right: 7px;
-        width: 35px
-    }
+        width: 35px */
+    /* }
 }
 
 @media screen and (max-width: 480px) {
@@ -470,12 +470,12 @@ strong {
     -ms-flex-direction: column;
     flex-direction: column;
     /*-ms-flex-pack: distribute;*/
-    justify-content: space-around;
+    /* justify-content: space-around;
     max-width: 1440px;
     margin: 0 auto
-}
+} */
 
-@media screen and (max-width: 630px) {
+/* @media screen and (max-width: 630px) {
     .intro {
         padding: 120px 70px
     }
@@ -1248,4 +1248,4 @@ strong {
 ::-webkit-scrollbar-thumb:hover {
     background: -webkit-linear-gradient(top, #bae67e, #007bff);
     background: linear-gradient(to bottom, #bae67e, #007bff);
-}
+} 
