@@ -20,8 +20,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+      working-directory: ./SDG_API
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
+      working-directory: ./SDG_API
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm ci
