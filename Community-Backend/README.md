@@ -5,7 +5,10 @@
 It's is an Apollo Graphql Server created using typescript which uses postgres as it's database. and is deployed in heroku using docker container.
 
 # Check it Out
+GraphQL
 https://communityfortb.herokuapp.com
+Express API
+https://sdgfortb.herokuapp.com/
 
 ## Client
 
