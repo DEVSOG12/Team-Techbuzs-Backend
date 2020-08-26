@@ -1,0 +1,621 @@
+{
+    "countries" :[
+        
+            {
+                "name": "Nigeria",
+                "id": "NG",
+                "city" : "Lagos"
+            },
+            {
+                "name" : "America",
+                "id" : "US",
+                "city" : "Ohio"
+            },
+            {
+                "name" : "United Kingdom",
+                "id" : "UK",
+                "city" : "London"
+            }
+        
+    ],
+    "onetreeplanted" :[
+      {
+        "region": "North America",
+        "country": "Cananda",
+        "name":"Britsh Columbia",
+        "overview": "British Columbia is characterized by abundant forests, rugged Pacific coastline, mountains, plateaus, and pristine lakes and rivers. Forests cover two-thirds of the province – an area of almost 60 million hectares. However, visitors will have noticed a marked difference in B.C.’s trees in recent years. Insect pests and diseases have decimated enormous areas of forest. These dead trees become fuel for wildfires, and in summer 2017 B.C. experienced its worst wildfire in history, with over 1.2 million hectares burned.",
+        "impact": "British Columbia has established itself as a leader in forest management, implementing stringent forest policies, stewardship programs and scientific research. Our reforestation partners are experts in rehabilitating B.C. forests and ensuring they have a sustainable future. Your support will help us plant healthy forests that can reduce the damage from beetle infestations, lessen the impact of wildfires, provide habitat for B.C.’s abundant wildlife, and preserve the province’s natural beauty for generations to come.        ",
+        "tree_species": "B.C.’s rich forest diversity includes more than 40 different species of native trees, with some of Canada’s most interesting and valuable tree species. Coniferous, or softwood, species such as pine, spruce, fir, hemlock and western red cedar are predominant in close to 90 per cent of B.C.’s forests. To maximize the impact of your donation, our partner will determine the most appropriate species of tree to plant, depending on the time of year.         ",
+        "image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/British_Columbia_Plant_Trees_One_Tree_Planted_400x.png"
+        ,"image_list" : [
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/BE_Tree_Saplings_One_Tree_Planted_2000x.png",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/BC_Tree_Planting_One_Tree_Planted_2000x.png?v=1552748802",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/BC_Fire_Restoration_One_Tree_Planted_2000x.png",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/BC_Fires_Restoration_One_Tree_Planted_2000x.png"
+        ]
+      },
+      {
+        
+        "region": "North America",
+        "country": "Cananda",
+        "name":"Ontario",
+        "overview": "Given its remarkably large land area, Ontario's forests are incredibly diverse. From the northern lowlands around Hudson Bay, through the Boreal forest, and on to the deciduous forests in the south, Ontario is home to a wide array of unique plant and wildlife. However, many of Ontario's amazing forests are being pressured by natural resource extraction and encroaching agricultural development. On top of this, in April 2019 the Ontario government cut funding for its tree planting program, which intended on planting 50 million trees by 2025.",
+        "impact": "Reforestation in Ontario will greatly benefit communities, biodiversity, and the environment. Planting trees will restore critical watersheds, rebuild important wildlife habitats, and will ultimately combat climate change and global warming. Most importantly, your donation will help to fill the void left by the Ontario government's termination of the 50 Million Tree program. With your support, conservation organizations who were counting on support from the government will be able to continue planting trees across the province.        ",
+        "tree_species": "To maximize the impact of your donation, our partner will determine the most appropriate species of tree to plant.        "
+ ,     "image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/8_2000x.jpg",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/6_2000x.jpg",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/9_2000x.jpg"
+        ]
+      },
+      {
+        "region":"North America",
+        "country":"Canada",
+        "name":"Quebec",
+        "overview":"The majority of forest coverage in Québec comes from the Boreal forest - the world’s largest intact forest ecosystem - making Québec forests some of the most ecologically rich ecosystems on the planet. They are home to more than 225 species of bird, 50 species of tree, and 60 mammal species including moose, black bear, fox, and caribou.",
+        "impact":"Your support will help our partners restore and expand Québec's forests, and protect them against urban sprawl, the timber industry, and resource development projects. Our partners want to ensure the forests remain strong, and wish to educate the community on the importance of sustainable forest management in Québec.        ",
+        "tree_species":"Our partner has chosen trees that will bring the greatest overall benefit to the region. "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/QUEBEC_400x.jpg?v=1552745619",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/4_2000x.jpg",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/2_2000x.jpg"
+        ]
+
+      },
+      {
+        "region":"North America",
+        "country":"Canada",
+        "name":"New Brunswick",
+        "overview":"The Whaelghinbran forest falls within the UNESCO designated Fundy Biosphere Reserve and is situated within a critical wildlife corridor connecting Fundy National Park with New Brunswick's interior. The surrounding Acadian Forest is one of the most ecologically diverse forest types in Canada, as well as one of the most endangered. With a moist climate and a historically very low risk of fire, it is ideal for storing carbon and a prime region for focusing climate change resilience efforts. The Acadian Forest is recognized by the World Wildlife Fund as “critically endangered,” the highest risk category for extinction. Less than 5 percent of the Acadian Forest remains in pre-colonial condition. Whaelghinbran's 700+ acres of mature forest will insulate this newly reforested site from many of the vulnerabilities plantations experience when isolated from healthy forest sites.        ",
+        "impact":"The primary goal in reforesting this site is to increase species diversity and promote climate change resilience within a restoration management model. Future conditions will see the return of a healthy Acadian Forest ecosystem. The secondary objective is to have a restoration site at Whaelghinbran Forest. This will be used for demonstration and educational purposes in CFI outreach activities. The forest is frequented by groups from the forestry programs at the University of New Brunswick, the Maritime College of Forest Technology, as well as area schools and forestry professional associations.        ",
+        "tree_species":"Native seedlings will be planted on this previously forested site is to increase species diversity and promote climate change resilience within a restoration management model. Future conditions will see the return of a healthy Acadian Forest ecosystem.        "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/21_abf84c20-b152-420f-ad4c-baaba2539167_400x.png"
+        ,"image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/ProductImages_PROPERDIMENSIONS_5_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/22_e8f42a72-6e1b-496d-8e58-c49dca60e9c1_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/24_034e822c-6076-4b05-bed6-ae2c27dc716a_2000x.png"
+        ]
+      },
+      
+      {
+        "region":"North America",
+        "country":"United States",
+        "name":"California",
+        "overview":"California's forests provide innumerable benefits, including clean water and air, recreation, timber, habitat, and beautiful scenery. Healthy forests also play an important role in addressing climate change. Five years of drought and a large-scale bark beetle infestation have seriously damaged California’s forests. 2017’s record-breaking wildfire season burned more than 1.3 million acres – an area the size of Delaware. Now, a record 129 million trees need to be restored in California.        ",
+        "impact":"Trees play an important role in the vitality of California communities. Your contribution will help our amazing partners plant trees and restore forests throughout California. These foresters work hard to promote improved vegetation planning and resource management, helping to reduce the risk of catastrophic fires and floods in the region.         ",
+        "tree_species":"To maximize the impact of your donation, our partner will determine the most appropriate species of tree to plant, depending on the time of year. Species planted include the Sugar Pine, California Redwood (State Tree), Maple, Elderberry, Willow, Birch, Dogwood, Cedar, Giant Sequoia, and Walnut.        "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/California_Plant_Trees_One_Tree_Planted_1200x.png",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/California_Plant_Trees_One_Tree_Planted_3207f689-f394-40af-9b10-49eca76c3566_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/California_Plant_Trees_One_Tree_Planted_3207f689-f394-40af-9b10-49eca76c3566_400x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/California_Reforestation_One_Tree_Planted_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/California_Plant_Trees_One_Tree_Planted_3207f689-f394-40af-9b10-49eca76c3566_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/California_Fire_Restoration_One_Tree_Planted_2000x.png"
+        ]
+      },
+      {
+        "region":"North America",
+        "country":"United States",
+        "name":"Colorado",
+        "overview":"Colorado has 24.4 million acres of forests which provide huge social, economic and ecological benefits. Forests support a sustainable wood products industry, diverse wildlife, fresh water, and ample recreation opportunities. But these precious forests face serious threats, including insect infestations, long-term drought, and forest fires. Unhealthy forests set the stage for exceptionally large, devastating wildfires that significantly increase risks of dangerous flooding, extreme erosion, degraded water quality and reduced water storage capacity.",
+        "impact":"Colorado’s high-country watersheds supply fresh water to 19 US states and Mexico. The same forests impacted by insects, disease and wildfire provide sustainable water supplies. Planting trees here will help to protect this critical resource, reforest areas burned by wildfires, enhance wildlife habitat, and reduce soil erosion. Our amazing reforestation partners work with land managers and private landowners to accomplish effective forestry practices and reduce the risk of severe wildfire and post-fire flooding.        ",
+        "tree_species":"To maximize the impact of your donation, our partner will determine the most appropriate species of tree to plant, depending on the time of year. Popular species include Pine, Aspen, and Oak.        "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/Colorado_Plant_Trees_One_Tree_Planted_400x.png",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/Colorado_project_grande_ffe6de02-ad37-41bf-b7fe-6876ae3e3320_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/Colorado_project_2018_grande_881c3cb9-1d69-47e9-9ea4-dea5e8976886_2000x.png"
+        ]
+
+      },
+      {
+        "region":"North America",
+        "country":"United States",
+        "name":"Ocra Project",
+        "overview":"The Endangered Southern Resident Orca have called the stretch of Pacific Ocean from Northern California to British Columbia home for millennia. Every year, as the Orca's migrate North to South and back again they rely on the West Coast Chinook salmon for food (nearly 80% of their diet). However, salmon stocks are diminishing due to loss of habitat and increasing pollution - ultimately impacting the Orca downstream. Planting trees along rivers and streams of the Pacific Northwest restores habitat for the endangered orca. Trees help reduce pollution and improve the health and quantity of salmon for the orca to eat!        ",
+        "impact":"Our amazing partners across the Pacific Northwest have identified critical forested areas that need to be restored in order to have the greatest possible impact on the well-being of the Southern Resident Orca. Planting trees around the rivers and streams that feed into the Orca's habitat reduces water contamination, lowers toxicity, protects salmon spawning grounds, and improves Orca food supply. These projects will bring benefits to other species of wildlife, as well as the communities in the surrounding areas.        ",
+        "tree_species":"Our partner has chosen trees and vegetation that will bring the greatest overall benefit to the region, the salmon, and the Southern Resident Orca.        "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/19_400x.png",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/17_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/16_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/Protect_the_Orca_2_2000x.jpg"
+        ]
+
+      },
+      {
+        "region":"North America",
+        "country":"United States",
+        "name":"Oregun",
+        "overview":"Deforestation isn't just happening in well-known global hotspots like Indonesia and Brazil's rainforest. A new analysis says forests are also shrinking on state and private land in Oregon, where an estimated 522,000 acres of forest cover have disappeared since 2000. That's an area six times larger than the city of Portland, equal to more than half of Oregon's designated state forests.         ",
+        "impact":"Oregon is home to iconic trees like Douglas fir, Oregon white oak, Ponderosa pine, Western red cedar, Pacific willow, Oregon ash, Western hemlock, black cottonwood, and big leaf maple. We plant over 35 native species so that the full ecosystem is supported and degraded forests can be restored. That includes soil, waterways, insects, birds, mammals, and people. Healthy forests = clean water and salmon. If you already love Oregon or hope to visit someday, please help us keep Oregon green. We need to protect this special place for future generations of farmers, foresters, hikers and visitors.         ",
+        "tree_species":"To maximize the impact of your donation, our partner will determine the most appropriate species of tree to plant, depending on the time of year.        "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/Oregon_Plant_Trees_One_Tree_Planted_400x.png",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/Oregon_tree_planting_One_Tree_Planted_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/Oregon_reforestation_One_Tree_Planted_2000x.png"
+        ]
+
+      },
+      {
+        "region":"North America",
+        "country":"United States",
+        "name":"Florida",
+        "overview":"Florida is home to 37 state forests, covering over 1,070,000 acres. Healthy forests provide citizens with sustainable wood production, fresh air, wildlife habitat, clean water, enjoyable outdoor recreation and quality of life. Yet in recent years, unhealthy forests have been major contributors to Florida's disastrous wildfires and unprecedented outbreaks of southern pine beetles. The region is frequently hit by strong storms and hurricanes, contributing severe, long-term damage to forest resources.",
+        "impact":"For this reforestation project, we plant a mix of species to benefit Florida's rich diversity of pine forests, wetlands and incredible ecosystems. Through careful environmental stewardship, these protected forests will continue to grow and be preserved for future generations. Your support will help Florida’s natural environment recover from hurricane damage, flooding and wildfires.        ",
+        "tree_species":"To maximize the impact of your donation, our partner will determine the most appropriate species of tree to plant, depending on the time of year. Popular species include Cypress and Longleaf Pines, Carolina Silverbell, Chestnut and Palm.        "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/Florida_Plant_Trees_One_Tree_Planted_400x.png",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/14_grande_eb985e37-b50a-497e-a8fc-c7c523d08acb_2000x.jpg",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/Florida_trees_to_plant_grande_81c0e321-1ee2-4eac-8f30-6c229359cc44_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/18_grande_ab8e20ee-d5a3-4d26-8081-a4df66418191_2000x.jpg?v=1552748379"
+        ]
+
+      },
+      {
+        "region":"North America",
+        "country":"United States",
+        "name":"Appalachia",
+        "overview":"Appalachia is one of America's most beautiful and renowned regions. Stretching from the state of New York, all the way down to Alabama and Georgia, Appalachia is not only home to the namesake Appalachian Trail, but also the Ozarks and Blue Ridge Mountains. More than 150 tree species can be found in the region, making it one of the most diverse ecological regions in North America. Unfortunately, the resource wealth of the region also means much of the forest has been degraded by mining and timber operations. Over the years, an estimated 83% of habitat has been lost. However, with an ever-growing tourism industry environmentally conscious organizations and businesses are stepping up to return the region to its former glory.        ",
+        "impact":"This project is a 5-year, multi-state effort. Our planting partners are looking to restore forests across all Appalachian states. The first phase we're participating is in Kentucky. Supporting this project will return formerly unproductive mining, logging, and agricultural land to balance. Planting trees here will also benefit nearby communities as hydrological function will be improved, thus providing them with better quality water. This project also creates meaningful jobs in communities suffering from high rates of poverty and unemployment. Our planting partners are also implementing conservation practices to ensure the forests are maintained sustainably for many more years to come.         ",
+        "tree_species":"A variety of trees will be planted in the affected area based on the needs of specific planting sites. Species include various types of oak, yellow poplar, American chestnut and hazelnut, silky dogwood, and persimmon.         "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/APPALACHIA_400x.jpg",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/5_c3f9632d-58ea-4bb5-b6dc-6e5e88ee0dcb_2000x.jpg",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/4_3bd19bf2-a6d0-4267-84d4-21148eca7202_2000x.jpg",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/3_38158d87-f97d-4d2f-8cc9-d930f9f7aec5_2000x.jpg"
+        ]
+
+      },
+      {
+        "region":"Latin America",
+        "country":"United States",
+        "name":"Amazon Forest",
+        "overview":"Home to iconic species like the Jaguar, Macaw, Amazon River Dolphin, Black Spider Monkey, and Poison Dart Frog, the Amazon River Basin is a vast region with 1.9 billion acres of rainforest and over 1,100 tributaries — 17 of which are longer than 1,000 miles. With the world’s largest rainforest ecosystem, it spans 9 countries and is home to almost 30% of plant and animal species on Earth. And by holding an estimated 90-140 billion metric tons of carbon, its forests play a critical role in the fight against climate change. Unfortunately, due to logging, unsustainable agriculture, and forest fires, it’s also a high risk zone for deforestation and degradation. Planting trees in the Amazon Rainforest will help conserve habitat for its iconic wildlife species, provide sustainable livelihoods to local people, and stabilize the climate.          ",
+        "impact":"This tree planting project will help protect the Amazon's biodiverse primary forests and restore degraded land. Our partners will work with local farmers to establish sustainable agroforestry using shade-grown cocoa, native tree species, and productive timber species. They will also provide training and technical assistance for participants in the sustainable agroforestry model.        ",
+        "tree_species":"To maximize the impact of your donation, our partner will determine the most appropriate species of tree to plant.        "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/Amazon_Rainforest_1000x800_400x.png",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/Plant_Trees_in_Peru_One_Tree_Planted_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/Peru_project_One_Tree_Planted_2000x.png",
+          ""
+        ]
+
+      },
+      {
+        "region":"Latin America",
+        "country":"United States",
+        "name":"Brazil",
+        "overview":"The Atlantic Forest, also known as Mata Atlantica, once covered 130 million hectares across Brazil. Now, this tropical rainforest ecosystem is home to more than half of the country’s population. Centuries of deforestation for timber, sugar cane, coffee, cattle ranching, and urban sprawl have reduced the size of the forest by over 90%. Although the water supply for Brazil’s two most populous cities (Rio de Janeiro and São Paulo) comes from this forest, there is a lack of public policies and resources to protect it.        ",
+        "impact":"Our partners in Brazil are working to restore 15 million hectares of the Atlantic Forest by 2050. By helping plant trees in this critically important forest you are promoting the conservation of biodiversity, creating jobs and income opportunities for communities, and establishing sustainable land management practices among Brazilian land owners. The 15 million hectares of restored forest also has the potential to sequester 200 million tonnes of CO2 annually, and will help restore water quality and quantity for the millions of people in Rio de Janeiro, São Paulo, and so many of the surrounding communities.        ",
+        "tree_species":"To maximize the impact of your donation, our partner will determine the most appropriate species of tree to plant.        "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/Brazil_Plant_Trees_One_Tree_Planted_281f325c-8e20-4ccd-9f57-8e3c17f0fdfb_400x.png",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/21_87913f62-24b4-48a7-a764-a4c9f857e6db_2000x.jpg",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/19_5031a57a-4397-49df-ba68-ccc2f2ff6919_2000x.jpg",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/18_42f06a87-d617-4366-baad-8a998ece965a_2000x.jpg"
+        ]
+
+      },
+      {
+        "region":"Latin America",
+        "country":"United States",
+        "name":"Hati",
+        "overview":"Reforestation is a major challenge for Haiti. Centuries of over-farming and poor agricultural methods have destroyed the region’s soil. Erosion makes it very difficult to grow food, and dramatically increases the impact of natural disasters. Planting trees here will help restore nutrients to the soil and teach local farmers how to use the land responsibly and profitably.        ",
+        "impact":"We work with an amazing partner in Haiti that uses social enterprise to tackle reforestation. Focusing on community development, they help establish farmer cooperatives and rural farm businesses, with a strong focus on empowering women. By planting trees and learning proper environmental practices, Haitian farmers are able to grow more food, combat climate change, and lift themselves out of poverty.        ",
+        "tree_species":"To maximize the impact of your donation, our partner in Haiti will determine the most appropriate species of tree to plant, depending on the time of year. Popular species include fruit trees (papaya) and fast-growing timber trees (cedrela odorata).        "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/Haiti_Plant_Trees_One_Tree_Planted_400x.png",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/Haiti_Reforestation_One_Tree_Planted_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/Haiti_Plant_Trees_One_Tree_Planted_51bcd542-cf11-45c8-a7d6-be90e72b6eaf_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/Haiti_Trees_One_Tree_Planted_2000x.png"
+        ]
+
+      },
+      {
+        "region":"Latin America",
+        "country":"United States",
+        "name":"Guatemala",
+        "overview":"Guatemala has one of the most extensive and diverse forest systems in Central America. Its name is said to mean '/land of the trees' in the Mayan-Toltec language. Sadly, the country is losing these precious forests at a rapid rate. Because of its topography, Guatemala is susceptible to landslides, floods and other natural disasters. However, the biggest driver of deforestation has been population growth and economic disparity. With more than one million hectares of land that could be harnessed for reforestation, this project aims to bring back the healthy forests that have characterized the country since ancient times.        ",
+        "impact":"Our amazing partner in Guatemala reforests and restores landscapes by working with communities in the northwest region of Huehuetenango and the Pacific South Coast. By planting a combination of hardwood trees (long-term value) and cacao plants (short-term value), the project teaches local people how to diversify through agroforestry. Through workshops in planting, tending, processing forest products, and valuing local resources, we can empower communities with the knowledge and skills to become economically and environmentally sustainable.        ",
+        "tree_species":"To maximize the impact of your donation, our partner will determine the most appropriate species of tree to plant, depending on the time of year. This project primarily focuses on planting exotic hardwoods and shade-dependent cacao plants.        "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/Guatemala_Plant_Trees_One_Tree_Planted_400x.png",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/15_grande_bb388b07-b3b0-4a4a-bb9b-7eef13ed8fb1_2000x.jpg",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/14_grande_909e6244-3162-45b9-b589-7da7100b4757_2000x.jpg"
+        ]
+
+      },
+      {
+        "region":"Latin America",
+        "country":"United States",
+        "name":"Andes",
+        "overview":"The Andes Mountains of South America used to have abundant forest coverage, but a growing population and increasing agricultural production have caused significant deforestation. The forests of the Andes are critical for the Indigenous populations who rely on them for food, water, and jobs. But their impact goes far beyond the communities living nearby; the Andes' watersheds drain into the Amazon basin, supplying water to innumerable communities and cities downstream.  ",
+        "impact":"Our amazing partners are leading a Latin America-wide initiative to restore 1 million hectares of high Andean forest across 6 countries over the next 25 years. As part of the annual tree-planting festival Queuña Raymi, trees will be planted with the guidance of local leaders using ancient Incan traditions, preserving the landscape and Indigenous culture. The tree planting will help restore wetlands, safeguard existing forest, and protect critical Amazon headwaters.          ",
+        "tree_species":"Our partner has chosen trees that will bring the greatest overall benefit to the region. This includes various types of Polylepsis trees which are native to the Andes and have adapted to the extremely high altitude.        "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/1_400x.jpg",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/3_293a8efc-664f-4a1f-a36c-5a2a9b8f6321_2000x.jpg",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/One_Tree_Planted_-_Andes_3_2000x.jpg"
+        ]
+
+      },
+      {
+        "region":"Latin America",
+        "country":"United States",
+        "name":"Honduras",
+        "overview":"Honduras has one of the highest rates of deforestation in the world. Since 1990, around 45% of its natural forests have disappeared. Miraculously, in 2015, still about 40% of national territory was forestland and with numerous national reserves, Honduras is trickled with hotspots of biodiversity. However, given global patterns of deforestation, food production, and climate change, these hotspots are under constant threat. Within the forestlands of the mountainous Nombre de Dios region, illegal logging and land use change for the commercial production of African palm-oil and livestock are commonplace. In addition, Honduras’ western dry corridor region is highly vulnerable to extreme weather events, including increasing temperatures and prolonged drought. Rural coffee farmers have thus been forced to move production areas to higher altitudes, clearing (often protected) forestlands and harming the country’s vital water systems in the process.",
+        "impact":"This project focuses on increased productivity, diversified incomes, improved knowledge on agricultural sustainability practices, enhanced access to government mechanisms/incentives for good management of natural resources, and increased farmer resilience to climate-related shocks.  ",
+        "tree_species":"To maximize the impact of your donation, our partner will determine the most appropriate species of  tree to plant, depending on the time of year. This project primarily focuses on planting exotic hardwoods and shade-dependent cacao plants.         "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/ProductImages_PROPERDIMENSIONS_400x.png?v=1590763793",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/29_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/31_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/28_8a5260c9-0c2b-451e-b683-fddc4124afcc_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/30_2000x.png"
+        ]
+
+
+      },
+      {
+        "region":"Asia & Australia",
+        "country":"Australia",
+        "name":"Australia",
+        "overview":"Australia experienced one of the largest natural disasters in history. This year's fire season has brought about unprecedented destruction as wildfires have spread across every Australian state, burning up nearly 6 million hectares (15 million acres) of bush as of January 2020. But the devastation witnessed in the state of New South Wales is nearly unfathomable - 3.6 million hectares (8.8 million acres) have been lost, over 1,500 homes destroyed or damaged, and 24 people have been killed. New South Wales is home to some of the most iconic of Australia's wildlife - koalas, wombats, and kangaroos to name a few - and their habitat is rapidly declining.",
+        "impact":"At the moment, the focus in Australia is on assessing the impact they have had on local communities and environments. Plenty of support will be needed to restore this landscape back to health. \n While trees for this project will not go in the ground until the fires have ceased and the soil is ready for plantation, your support will help make sure we’re ready to hit the ground running and repair the country’s beautiful and iconic landscape once planting is possible. We’re expecting to have the ability to contribute to the restoration of over 6 million trees across the country in 2021 thanks to our generous donors’ ongoing support.",
+        "tree_species":"Our partner has chosen trees that will bring the greatest overall benefit to the region. This includes various types of native trees and companion plants, depending on the specific needs of each section of habitat being restored across New South Wales and Australia.        "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/australia-1-trees_400x.png?v=1581974028",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/26_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/25_2000x.png"
+        ]
+
+      },
+      {
+        "region":"Asia & Australia",
+        "country":"India",
+        "name":"India",
+        "overview":"Our work in India primarily focuses on fruit trees and mangroves. Fruit trees will be planted in the rural Indian states of Uttar Pradesh, Haryana, and Odisha, where food scarcity has been amplified by the effects of COVID-19. At a time when many migrant laborers are returning home, planting trees in the homesteads, communities, and villages that dot these regions will help keep hunger at bay while supporting local economies. Additionally, we will be planting mangroves in the Sundarbans! This is an incredible region of marine biodiversity and mangroves here will help with maintaining healthy fisheries, climate resilience, and carbon sequestration.        ",
+        "impact":"Each free tree we plant will provide at least $10 USD in food and nutrition each year, with a cumulative value of 5 million dollars garnered over the next 50-60 years. While the socioeconomic benefits of this project are undeniable, there are many ecological benefits, too! India has the lowest air quality in the world, which is bad news for human health, doubly so in the face of a respiratory virus. Cue trees, which filter the air, trap pollutants, and provide thousands of pounds of breathable oxygen over their lifetimes.        ",
+        "tree_species":"The species we’ll focus on are: moringa, papaya, banana, lemon, guava, apricot, pear, peach, and jujubes. Moringa, papaya, and banana grow quickly and will provide food and fruit within 8-10 months of planting. Lemon, guava, apricot, pear, peach, and jujubes take a little longer (3 years) to produce fruit, but will ultimately provide a steady supply of food and income to small farmers.         "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/Tree_Gift_Product_Images_400x.png",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/Tree_Gift_Product_Images_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/46_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/47_2000x.png"
+        ]
+
+      },
+      {
+        "region":"Asia & Australia",
+        "country":"Philippines",
+        "name":"Philippines",
+        "overview":"Over the last century, the Philippines has suffered a staggering amount of deforestation, from some 70% forest coverage down to just 20% today, largely due to illegal logging activities. The impacts of deforestation have been felt throughout the country, causing food shortages, poor water quality, landslides, and the endangering of wildlife habitat. Since the 1990s the Philippines has promoted reforestation efforts to push back against this loss of forest coverage, conserving wildlife habitats in the last remaining endangered forests, and developing creative solutions with nature and people in mind. This project will focus on carbon drawdown by planting fast-growing bamboo.          ",
+        "impact":"Planting bamboo in Bukidnon, Mindanao, will aid in restoring water cycles, preventing erosion, and reducing catastrophic flooding in the region. Mindanao has been dramatically deforested in the region and this planting project will restore 750,000 acres of barren land. Furthermore, because of it’s regenerative and fast-growing nature, the bamboo planted will support the local economy and provide jobs to indigenous and impoverished communities. The total planting will be 100,000 bamboo emphasizing carbon drawdown from the atmosphere. Botanically not trees but grasses, bamboo can restore landscapes quickly and sequester up to 365 tonnes of carbon per hectare per year. When considering the displacement of more carbon-intensive material production when replaced by bamboo, those benefits increase significantly.        ",
+        "tree_species":"Dendrocalamus Asper (giant bamboo), with native hardwood interplanting after year 5 (to give time for bamboo fire breaks to reach maturity) have been identified for this project. Giant bamboo has a unique geometric growth curve that makes it 10x faster than tree-based CO2 drawdown, and it can sequester up to 1.78 tonnes CO2/clump/year, or up to 356 tonnes/hectare/year when optimally managed. We see an additional 40% benefit as bamboo replaces other building materials over time. Furthermore, bamboo does not die in the grass fires that have devastated previous reforestation attempts in the area with native hardwoods. We only plant clumping bamboo to not compete with native species, and plan to increase biodiversity with native forest interplanting in future years.        "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/3_731352ea-f86a-4715-ac6f-24a65207bf48_400x.jpg",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/bambootreesreforestation3_2000x.jpg",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/bambootreesreforestation_2000x.jpg"
+        ]
+
+      },
+      {
+        "region":"Asia & Australia",
+        "country":"Indonesia",
+        "name":"Indonesia",
+        "overview":"Indonesia is home to magnificent rainforests, carbon-rich peatlands, and diverse wildlife like orangutans, proboscis monkeys, Sun bears and over 1,700 species of birds. Funds from OneTreePlanted will support the activity of planting 100,000 trees in four Gapoktan (farmer group associations), involving over 1,000 farmers in the two Forest Management Units (FMUs) of Kota Agung Utara and Batu Tegi located in the buffer zones of Bukit Barisan Selatan National Park (BBSNP). Tree planting in this region is critical as there are approximately 40,000 families whose livelihoods depend on the forests in the two FMUs Kota Agung Utara and Batu Tegi.",
+        "impact":"Our experienced planters in Indonesia work to ensure balance is restored both environmentally and economically with the growth of new trees. This project helps to educate local villages about the importance of conservation, create jobs for those in the area, and provide long-term income for the community. To reach this area requires a four-hour boat ride through areas inhabited by orangutans, hornbills, proboscis monkeys, crocodiles, and many more unique flora and fauna.        ",
+        "tree_species":"To ensure your donation makes the biggest impact possible, our partner will determine which native species are most appropriate to plant for that time of year. Native Indonesian species that we plant include: Arenga pinnata (type of palm),  Persea americana (avocado), Parkia speciosa (bean), Myristica fragrans (nutmeg), Erythrina variegate (type of herb), Bombax ceiba (cotton tree),  Durio zibethinus (durian), Archidendron pauciflorum (legume tree), Cassia javanica (apple blossom tree), Garcinia mangostana (mangosteen), Bambusoideae (bamboo). "
+        ,"image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/Indonesia_Plant_Trees_One_Tree_Planted_400x.png",
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/Indonesia_Tree_Planting_One_Tre_Planted_2000x.png",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/Indonesia_Tree_Planting_One_Tre_Planted_2000x.png?v=1547762764",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/Indonesia_Reforestation_One_Tre_Planted_2000x.png"
+        ]
+
+      },
+      {
+        "region":"Africa",
+        "country":"Kenya",
+        "name":"Kenya",
+        "overview":"Kenya’s Kijabe Forest is a highland mosaic ‘Afro-alpine’ forest that was once dominated by trees, such as the East African pencil-cedar and African olive. Roughly one-third of the original high-canopy forest still stands and provides important habitat for biodiversity. The forest is only about 5,000 hectares, but a community of almost 200,000 people depend on it for water, wood, and agriculture. Increasing pressure for land poses significant threats to the region, leading to the over-extraction of resources and illegal timber harvesting. Planting trees here will help protect this vital ecosystem, promote environmental education, and foster sustainable livelihoods through seed collection and ecotourism.        ",
+        "impact":"Our partner, The Kijabe Forest Trust, is committed to restoring 5,000 hectares of primary forests in Kijabe. This project will work directly with communities to protect, conserve, and restore the forest, helping to safeguard water and other ecosystem services. Planting trees here will improve access to sustainable livelihoods by employing community members, promoting ecotourism and non-timber forest products, and providing environmental education and advocacy.  "
+        ,"tree_species":"The species we are planting are highly dependent on the altitudinal zones of the escarpment area. The mix will include climax species (such as Juniperus procera, Olea europaea ssp. africana, and Warburgia ugandensis), and faster growing cover species such as Croton megalocarpus, Dombeya rotundifolia, and Sesbania sesben.        ",
+        "image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/One_Tree_Planted_-_Kenya_1_2000x.jpg",
+
+        "image_list":[
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/One_Tree_Planted_-_Kenya_3_2000x.jpg",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/One_Tree_Planted_-_Kenya_2_2000x.jpg",
+          "https://cdn.shopify.com/s/files/1/0326/7189/products/One_Tree_Planted_-_Kenya_4_2000x.jpg"         
+        ]
+      },
+      {
+        "region":"Africa",
+        "country":"Ethiopia",
+        "name":"Ethiopia",
+        "overview":"This tree planting project links environmental restoration with income generation, providing the local community with the knowledge and tools to conserve their land, protect their water supply, and create a sustainable, diverse economy for future generations. It focuses on the Loka Bedelcha Kebele in Southern Ethiopia, and the Amhara region in the North. Both are areas where environmental degradation is threatening livelihoods and biodiversity. These regions face challenges like dry and unpredictable climates, poor soil fertility, ineffective land management practices, and lenient resource regulations.         ",
+        "impact":"Our partner, SOS Sahel Ethiopia, is dedicated to improving the living standards of smallholder farmers and marginalized pastoralists through better management of their environment and improved access to food. Taking place on communal lands and around homesteads, the planting of these trees will be tied to sustainable business for the local community: fruit and coffee production, beekeeping, and animal fattening. Community cooperatives will be the primary implementers of the project, while school clubs will be established to engage in the tree plantation to learn by doing.         ",
+        "tree_species":"Our partners will plant a variety of trees to ensure this project has a wide-ranging impact. These include multi-purpose tree species (Acacia saligna, Acacia abyssinica, Grevillea robusta & Olea africana), fruit trees (Mango, Papaya & Avocado), and coffee plants.         ",
+        "image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/Ethiopia_Plant_Trees_One_Tree_Planted_2000x.png",
+        "image_list":[
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/Ethiopia_project_7_grande_f9ccc4c8-53fa-4d66-87ef-9e18ce4e0a17_2000x.png",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/Ethiopia_project_8_grande_aca133e4-c84a-4406-b6fb-c65b9ae97e6b_2000x.png"
+        ]
+      },
+      {
+        "region":"Africa",
+        "country":"Ghana",
+        "name":"Ghana",
+        "overview":"Ghana is known for its diverse animal life, miles of sandy beaches along a picturesque coast, and beautiful forests covering more than 21% of the country. Since the early 1990s, Ghana has lost more than 30% of its forests – approximately 2.5 million hectares. With a remarkable 80% of Ghanaians depending on forests for their livelihoods, deforestation has a major impact on communities. To reverse this trend, Ghana's government is focused on improving land management, planting trees, and protecting forests. This project is also a part of the AFR100, an initiative to restore more than 100 million hectares of land across Africa by 2030.        ",
+        "impact":"Together with our incredible reforestation partners, we are planting 30,000 trees in north-east Ghana where rapid desertification is caused by deforestation and close proximity to the Sahara and Sahel deserts. Improving forest health in these areas will bolster soil nutrition, improve local hydrological function, and create a positive social and economic impact for nearby communities. The trees for this project even come from a nearby nursery, creating jobs and supporting the local economy. Through engagement and participation this project will educate community members on productive and sustainable land management, ensuring the reforested areas are maintained for generations to come.        ",
+        "tree_species":"To maximize the impact of your donation, our partner will determine the most appropriate species of tree to plant. Popular species include Mahogany, Rosewood, Teak and Eucalyptus.",
+        "image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/Product_Page_Images_1_2000x.jpg",
+        "image_list":[
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/3_91cc6177-c989-4d1a-8294-bb52832cadd1_2000x.jpg",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/Product_Page_Images_2_2000x.jpg"
+        ]
+      },
+      {
+        "region":"Africa",
+        "country":"Rwanda",
+        "name":"Rwanda",
+        "overview":"Rwanda’s forests support a wealth of biodiversity and natural resources. The Gishwati-Mukura forests of Rwanda once spanned 253,000 hectares, covering the land with over 60 species of trees and providing habitat to chimpanzees. Due to illegal mining and the resettlement of households after the genocide in 1994, overgrazing and tree cutting reduced the forests to a mere 3,558 ha. Smallholder farmers feel the impacts of that degradation and understand the importance of landscape restoration for water, energy and food security. This project will help a women’s cooperative, led by local farmer Agnes Uwifashije, to revive land in Mukura.        ",
+        "impact":"For this project, our amazing partners at ARCOS (Albertine Rift Conservation Society) will mentor and build the skills of 2,000 farmers to restore land while improving community livelihoods. Planting trees will help add nutrients to soil while controlling run-off and erosion. When properly managed, these trees will provide the local farmers with firewood, climbing bean poles, and fodder for their animals. For food security and income generation, farmers will plant avocado, lemon, and tree tomatoes.        ",
+        "tree_species":"This community-led initiative will plant a variety of trees including Grevillea, calliandra, Markhamia, Ficus, Erythrina, and Myriantus. Farmers will also plant Avocado, Lemon, and Tree tomatoes for food security and income generation.        ",
+        "image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/Rwanda_Plant_Trees_One_Tree_Planted_2000x.png",
+        "image_list":[
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/Rwanda_Social_impact_One_Tree_Planted_2000x.png",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/Rwanda_Plant_Trees_One_Tree_Planted_46cc8e89-7905-4443-a894-1c19ca70be87_2000x.png"
+        ]
+      },
+      {
+        "region":"Africa",
+        "country":"Uganda",
+        "name":"Uganda",
+        "overview":"Uganda has a rapidly growing population which is putting a great deal of stress on the country's forests. A larger population and an influx of refugees are increasing demand for firewood, pushing agricultural expansion, and expanding land settlement - all of which is having an adverse impact on tree coverage. Uganda now experiences one of the highest rates of deforestation in the world. Like most of the country, Western Uganda (part of the Albertine Rift) is a biodiversity hotspot, home to the most endemic and threatened species of vertebrates on the continent, many of which rely on the forest for habitat and food. ",
+        "impact":"Our partners are working with local farmers in Western Uganda where they are planting trees which will provide sustainable food and income for land owners by growing fruits, nuts, and medicines. Planting trees in this area of Uganda will reduce erosion and improve the health of the soil degraded by agricultural expansion, aid in restoring riparian zones, and give local plants and animals a better habitat. Another aspect of this project is to train farmers on a range of topics from health to climate resiliency. These trees will be rigorously monitored and cared for as they will eventually be used to generate carbon offsets - meaning your trees will last a long, long time!        ",
+        "tree_species":"A variety of trees will be planted in the affected area based on the needs of specific planting sites. Species include Pinus Patula, Pine, Gravellia, Orange, Teak, Cyprus, Mango, Omusizi, and Plum.         ",
+        "image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/Uganda_-_One_Tree_Planted_1_2000x.jpg",
+        "image_list":[
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/Uganda_-_One_Tree_Planted_5_2000x.jpg",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/Uganda_-_One_Tree_Planted_3_2000x.jpg",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/Uganda_-_One_Tree_Planted_2_2000x.jpg"
+        ]
+      },
+      {
+        "region":"Africa",
+        "country":"Tanzania",
+        "name":"Tanzania",
+        "overview":"The International Small Group and Tree Planting Program (TIST) supports Small Groups of subsistence farmers in Kenya, Tanzania, Uganda, and India to combat the devastating effects of deforestation, poverty, and drought. Farmers come together in Small Groups of 6-12, forming Clusters of 20-70 Small Groups. Clusters meet monthly to address agricultural, HIV/AIDS, nutritional, and fuel challenges, as well as to discuss tree planting. As TIST expands to more groups and more areas, it ensures more trees, more biodiversity, more climate change benefit and more income for more people.        ",
+        "imapct":"The trees that the TIST farmers plant provide food, fodder, fruits, fuel, building materials as well as windbreaks and shade. They also absorb carbon as they grow, thus reducing the excess carbon dioxide in the atmosphere that is driving climate change. The shade and water retention reduce soil temperatures, improve soil moisture, water supply, and crop yields. The other agricultural improvements improve the soil carbon, and thus improve fertility and production.        ",
+        "tree_species":"Common tree species include Mijohoro, Luciner, Mikalatusi, Eucalyptus, Milonga, Mimelea, Casuarina, Mti kunuka, Gravellia & Mikorokapasi. Farmers choose what trees they wish to plant.        ",
+        "image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/19_c1b0ff9e-2b3e-468a-873c-b8544aa87348_2000x.png",
+        "image_list":[
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/22_2cc0caec-caca-4d66-942e-b962ff1fd939_2000x.png",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/21_78e6a6d0-49cf-4e1d-a493-aa3ef9ac4ff0_2000x.png",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/19_c1b0ff9e-2b3e-468a-873c-b8544aa87348_2000x.png"
+        ]
+      },
+      {
+        "region":"USFS",
+        "country": "Pacific Northwest Region - National Forests",
+        "name": "Pacific Northwest Region - National Forests",
+        "overview":"The United States Forest Service (USFS) - an agency of the US Department of Agriculture - manages more than 150 national forests across 43 states. Now, One Tree Planted is one of their official reforestation partners, giving us the opportunity to plant more trees on more public land from coast to coast! This project will focus on new planting projects in the Eastern Region of the National Forests.        ",
+        "imapct":"All of our USFS projects have incredible and diverse impacts on the environment. The Eastern Region project will focus on the two National Forests in Michigan and Minnesota, including the 'Chippewa National Forest', and the 'Hiawatha National Forest'. These projects are focused on watershed restoration and wildlife habitat restoration.         ",
+        "tree_species":"Species planted include Red Pine, Jack Pine, White Pine, White Spruce, Tamarack, Bur Oak, Red Oak, White Oak, Eastern White Pine, and Eastern Hemlock. However, to maximize the impact of your donation, our partner may choose alternative species all dependent on the time of year.        ",
+        "image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/23_2000x.png",
+        "image_list":[
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/3_c5bcb40e-7fe0-474e-b015-2e383d1232a5_2000x.jpg",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/5_a37d7d87-7810-4aa9-bfd5-4a9a6de5f0ce_2000x.jpg",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/4_7194d7bd-3312-4ba1-be0d-a1fb260ec7a7_2000x.jpg"
+        ]
+        
+        
+      },
+      {
+        "region":"USFS",
+        "country": "Eastern Region - National Forests",
+        "name": "Eastern Region - National Forests",
+        "overview":"The United States Forest Service (USFS) - an agency of the US Department of Agriculture - manages more than 150 national forests across 43 states. Now, One Tree Planted is one of their official reforestation partners, giving us the opportunity to plant more trees on more public land from coast to coast! This project will focus on new planting projects in the Eastern Region of the National Forests.        ",
+        "imapct":"All of our USFS projects have incredible and diverse impacts on the environment. The Eastern Region project will focus on the two National Forests in Michigan and Minnesota, including the 'Chippewa National Forest', and the 'Hiawatha National Forest'. These projects are focused on watershed restoration and wildlife habitat restoration.         ",
+        "tree_species":"Species planted include Red Pine, Jack Pine, White Pine, White Spruce, Tamarack, Bur Oak, Red Oak, White Oak, Eastern White Pine, and Eastern Hemlock. However, to maximize the impact of your donation, our partner may choose alternative species all dependent on the time of year.        ",
+        "image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/23_2000x.png",
+        "image_list":[
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/3_c5bcb40e-7fe0-474e-b015-2e383d1232a5_2000x.jpg",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/5_a37d7d87-7810-4aa9-bfd5-4a9a6de5f0ce_2000x.jpg",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/4_7194d7bd-3312-4ba1-be0d-a1fb260ec7a7_2000x.jpg"
+        ]
+        
+      },
+      {
+        "region":"USFS",
+        "country": "Northern Region - National Forests",
+        "name": "Northern Region - National Forests",
+        "overview":"The United States Forest Service (USFS) - an agency of the US Department of Agriculture - manages more than 150 national forests across 43 states. Now, One Tree Planted is one of their official reforestation partners, giving us the opportunity to plant more trees on more public land from coast to coast! This project will focus on new planting projects in the Eastern Region of the National Forests.        ",
+        "imapct":"All of our USFS projects have incredible and diverse impacts on the environment. The Eastern Region project will focus on the two National Forests in Michigan and Minnesota, including the 'Chippewa National Forest', and the 'Hiawatha National Forest'. These projects are focused on watershed restoration and wildlife habitat restoration.         ",
+        "tree_species":"Species planted include Red Pine, Jack Pine, White Pine, White Spruce, Tamarack, Bur Oak, Red Oak, White Oak, Eastern White Pine, and Eastern Hemlock. However, to maximize the impact of your donation, our partner may choose alternative species all dependent on the time of year.        ",
+        "image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/23_2000x.png",
+        "image_list":[
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/3_c5bcb40e-7fe0-474e-b015-2e383d1232a5_2000x.jpg",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/5_a37d7d87-7810-4aa9-bfd5-4a9a6de5f0ce_2000x.jpg",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/4_7194d7bd-3312-4ba1-be0d-a1fb260ec7a7_2000x.jpg"
+        ]
+        
+        
+      },
+      {
+        "region":"USFS",
+        "country": "Southern Region - National Forests",
+        "name": "Southern Region - National Forests",
+        "overview":"The United States Forest Service (USFS) - an agency of the US Department of Agriculture - manages more than 150 national forests across 43 states. Now, One Tree Planted is one of their official reforestation partners, giving us the opportunity to plant more trees on more public land from coast to coast! This project will focus on new planting projects in the Eastern Region of the National Forests.        ",
+        "imapct":"All of our USFS projects have incredible and diverse impacts on the environment. The Eastern Region project will focus on the two National Forests in Michigan and Minnesota, including the 'Chippewa National Forest', and the 'Hiawatha National Forest'. These projects are focused on watershed restoration and wildlife habitat restoration.         ",
+        "tree_species":"Species planted include Red Pine, Jack Pine, White Pine, White Spruce, Tamarack, Bur Oak, Red Oak, White Oak, Eastern White Pine, and Eastern Hemlock. However, to maximize the impact of your donation, our partner may choose alternative species all dependent on the time of year.        ",
+        "image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/23_2000x.png",
+        "image_list":[
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/3_c5bcb40e-7fe0-474e-b015-2e383d1232a5_2000x.jpg",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/5_a37d7d87-7810-4aa9-bfd5-4a9a6de5f0ce_2000x.jpg",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/4_7194d7bd-3312-4ba1-be0d-a1fb260ec7a7_2000x.jpg"
+        ]
+        
+        
+      },
+      {
+        "region":"Project",
+        "country": "Plant For Trees Chimpanzees",
+        "name": "Plant For Trees Chimpanzees",
+        "overview":"This is an incredibly special wildlife habitat and corridor restoration partnership between One Tree Planted and the Jane Goodall Institute. The objective is to restore and conserve nature for biodiversity while also supporting local communities. The trees will be planted in the Albertine Rift forests of Uganda, close to where Dr. Jane Goodall began her extraordinary career and fell in love with chimpanzees - our closest wildlife relatives. Donations here will go towards planting 3 million trees as part of a broad long-term and large-scale initiative that will connect forests for wildlife, establish tree nurseries, strengthen forest monitoring and law enforcement to prevent future deforestation, promote agroforestry practices that integrate trees into farming systems, and much more.        ",
+        "imapct":"The Albertine Rift is globally recognized as a biodiversity hotspot, it ranks first among 119 distinct terrestrial eco-regions of continental Africa in terms of endemic species of birds, mammals, reptiles, and amphibians, and second in terms of globally threatened species. Over 50% of birds, 39% of mammals, 19% of amphibians, and 14% of reptiles and plants of mainland Africa reside in this region. The restoration of these forests will contribute to carbon sequestration, support ecosystem functioning such as water catchment, engage local communities in sustainable practices, and maintain a habitat for highly endangered species relying on the Albertine Rift for their survival - including the endangered chimpanzee.          ",
+        "tree_species":"A variety of local trees will be planted in the affected area based on the needs of specific planting sites. Species include Khaya, Maesopsis eminii, Cordia africana, Milicia excelsa, Albizia species, Mitrigyna stipulosa, Fantunia species, Trichilia species. Lovoa, trichiliodes, and Ficus species among others.          ",
+        "image_link":"https://cdn.shopify.com/s/files/1/0326/7189/products/planttreesforchimpanzees_2000x.png",
+        "image_list":[
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/Planting-25sm_2000x.jpg",
+            "https://cdn.shopify.com/s/files/1/0326/7189/products/chimpanzees_2000x.png"
+        ]
+        
+      }
+      
+      
+    ],
+    "goals" :[{
+        "goal": 1,
+        "title": "End poverty in all its forms everywhere",
+        
+        "short": "No Poverty",
+    
+       "iconImage":"",
+          "keywords": "The decline of global extreme poverty continues, but has slowed. The deceleration indicates that the world is not on track to achieve the target of less than 3 per cent of the world living in extreme poverty by 2030. People who continue to live in extreme poverty face deep, entrenched deprivation often exacerbated by violent conflicts and vulnerability to disasters. Strong social protection systems and government spending on key services often help those left behind get back on their feet and escape poverty, but these services need to be brought to scale.",
+         
+        "icon_url": "assets/SDGs/sdg1.png"
+      },
+      {
+        "goal": 2,
+        "title": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+        "short": "Zero Hunger",
+    
+        "keywords": "Hunger is on the rise again globally and undernutrition continues to affect millions of children. Public investment in agriculture globally is declining, smallscale food producers and family farmers require much greater support and increased investment in infrastructure and technology for sustainable agriculture is urgently needed.",
+        "icon_url": "assets/SDGs/sdg2.png"
+      },
+      {
+        "goal": 3,
+        "title": "Ensure healthy lives and promote well-being for all at all ages",
+        "short": "Good Health and Well-being",
+    
+        "keywords": "Major progress has been made in improving the health of millions of people, increasing life expectancy, reducing maternal and child mortality and fighting against leading communicable diseases. However, progress has stalled or is not happening fast enough with regard to addressing major diseases, such as malaria and tuberculosis, while at least half the global population does not have access to essential health services and many of those who do suffer undue financial hardship, potentially pushing them into extreme poverty. Concerted efforts are required to achieve universal health coverage and sustainable financing for health, to address the growing burden of non-communicable diseases, including mental health, and to tackle antimicrobial resistance and determinants of health such as air pollution and inadequate water and sanitation.",
+        "icon_url": "assets/SDGs/sdg3.png"
+      },
+      {
+        "goal": 4,
+        "title": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+        "short": "Quality Education",
+    
+        "keywords": "Despite the considerable progress on education access and participation over the past years, 262 million children and youth aged 6 to 17 were still out of school in 2017, and more than half of children and adolescents are not meeting minimum proficiency standards in reading and mathematics. Rapid technological changes present opportunities and challenges, but the learning environment, the capacities of teachers and the quality of education have not kept pace. Refocused efforts are needed to improve learning outcomes for the full life cycle, especially for women, girls and marginalized people in vulnerable settings.",
+        "icon_url": "assets/SDGs/sdg4.png"
+      },
+      {
+        "goal": 5,
+        "title": "Achieve gender equality and empower all women and girls",
+        "short": "Gender Equality",
+    
+        "keywords": "While some indicators of gender equality are progressing, such as a significant decline in the prevalence of female genital mutilation and early marriage, the overall numbers continue to be high. Moreover, insufficient progress on structural issues at the root of gender inequality, such as legal discrimination, unfair social norms and attitudes, decision-making on sexual and reproductive issues and low levels of political participation, are undermining the ability to achieve Sustainable Development Goal 5.",
+        "icon_url": "assets/SDGs/sdg5.png"
+    
+      },
+      {
+        "goal": 6,
+        "title": "Ensure availability and sustainable management of water and sanitation for all",
+        "short": "Clean Water and Sanitation",
+    
+        "keywords":"Despite progress, billions of people still lack safe water, sanitation and handwashing facilities. Data suggests that achieving universal access to even basic sanitation service by 2030 would require doubling the current annual rate of progress. More efficient use and management of water are critical to addressing the growing demand for water, threats to water security and the increasing frequency and severity of droughts and floods resulting from climate change. As of the time of writing, most countries are unlikely to reach full implementation of integrated water resources management by 2030.",
+        "icon_url": "assets/SDGs/sdg6.png"
+      },
+      {
+        "goal": 7,
+        "title": "Ensure access to affordable, reliable, sustainable and modern energy for all",
+        "short": "Affordable and Clean Energy",
+      
+        "keywords": "Access to electricity in the poorest countries has begun to accelerate, energy efficiency continues to improve and renewable energy is making gains in electricity sector. Despite this progress, some 800 million people remain without electricity while access to clean cooking fuels and technologies needs dedicated attention. In addition, if Sustainable Development Goals 7, 13 and related Goals are to be met, much higher levels of ambition are required with regard to renewable energy, including transportation and heating.",
+        "icon_url": "assets/SDGs/sdg7.png"
+      },
+      {
+        "goal": 8,
+        "title": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+        "short": "Decent Jobs and Economic Growth",
+       
+        "keywords": "Inclusive and sustainable economic growth can drive progress and generate the means to implement the Sustainable Development Goals. Globally, labour productivity has increased and unemployment is back to pre-financial crisis levels. However, the global economy is growing at a slower rate. More progress is needed to increase employment opportunities, particularly for young people, reduce informal employment and the gender pay gap and promote safe and secure working environments to create decent work for all.",
+        "icon_url": "assets/SDGs/sdg8.png"
+      },
+      {
+        "goal": 9,
+        "title": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+        "short": "Industry, Innovation and Infrastructure",
+       
+        "keywords": "Aspects of the prevailing global economic environment have not been conducive to rapid progress on Sustainable Development Goal 9. While financing for economic infrastructure has increased in developing countries and impressive progress has been made in mobile connectivity, countries that are lagging behind, such as least developed countries, face serious challenges in doubling the manufacturing industry’s share of GDP by 2030, and investment in scientific research and innovation remains below the global average.",
+        "icon_url": "assets/SDGs/sdg9.png"
+      },
+      {
+        "goal": 10,
+        "title": "Reduce inequality within and among countries",
+        "short": "Reduced Inequalities",
+       
+        "keywords": "Inequality within and among nations continues to be a significant concern despite progress in and efforts at narrowing disparities of opportunity, income and power. Income inequality continues to rise in many parts of the world, even as the bottom 40 per cent of the population in many countries has experienced positive growth rates. Greater emphasis will need to be placed on reducing inequalities in income as well as those based on other factors. Additional efforts are needed to increase zero-tariff access for exports from least developed countries and developing countries, and assistance to least developed countries and small island developing States.",
+        "icon_url": "assets/SDGs/sdg10.png"
+      },
+      {
+        "goal": 11,
+        "title": "Make cities and human settlements inclusive, safe, resilient and sustainable",
+        "short": "Sustainable Cities and Communities",
+    
+        "keywords": "Substantial progress has been made in reducing the proportion of the global urban population living in slums, though more than 1 billion people continue to live in such situations. Urgent action is needed to reverse the current situation, which sees the vast majority of urban residents breathing poor-quality air and having limited access to transport and open public spaces. With the areas occupied by cities growing faster than their populations, there are profound repercussions for sustainability.",
+        "icon_url": "assets/SDGs/sdg11.png"
+      },
+      {
+        "goal": 12,
+        "title": "Ensure sustainable consumption and production patterns",
+        "short": "Responsible Consumption and Production",
+    
+        "keywords": "Worldwide material consumption has expanded rapidly, as has material footprint per capita, seriously jeopardizing the achievement of Sustainable Development Goal 12 and the Goals more broadly. Urgent action is needed to ensure that current material needs do not lead to the overextraction of resources or to the degradation of environmental resources, and should include policies that improve resource efficiency, reduce waste and mainstream sustainability practices across all sectors of the economy.",
+        "icon_url": "assets/SDGs/sdg12.png"
+      },
+      {
+        "goal": 13,
+        "title": "Take urgent action to combat climate change and its impacts.",
+        "short": "Climate Action",
+    
+        "keywords": "With rising greenhouse gas emissions, climate change is occurring at rates much faster than anticipated and its effects are clearly felt worldwide. While there are positive steps in terms of the climate finance flows and the development of nationally determined contributions, far more ambitious plans and accelerated action are needed on mitigation and adaptation. Access to finance and strengthened capacities need to be scaled up at a much faster rate, particularly for least developed countries and small island developing States.",
+        "icon_url": "assets/SDGs/sdg13.png"
+      },
+      {
+        "goal": 14,
+        "title": "Conserve and sustainably use the oceans, seas and marine resources for sustainable development",
+        "short": "Life Below Water",
+    
+        "keywords": "The expansion of protected areas for marine biodiversity and existing policies and treaties that encourage responsible use of ocean resources are still insufficient to combat the adverse effects of overfishing, growing ocean acidification due to climate change and worsening coastal eutrophication. As billions of people depend on oceans for their livelihood and food source and on the transboundary nature of oceans, increased efforts and interventions are needed to conserve and sustainably use ocean resources at all levels.",
+        "icon_url": "assets/SDGs/sdg14.png"
+      },
+      {
+        "goal": 15,
+        "title": "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",
+        "short": "Life on Land",
+    
+        "keywords": "There are some encouraging global trends in protecting terrestrial ecosystems and biodiversity. Forest loss is slowing down, more key biodiversity areas are protected and more financial assistance is flowing towards biodiversity protection. Yet, the 2020 targets of Sustainable Development Goal 15 are unlikely to be met, land degradation continues, biodiversity loss is occurring at an alarming rate, and invasive species and the illicit poaching and trafficking of wildlife continue to thwart efforts to protect and restore vital ecosystems and species.",
+        "icon_url": "assets/SDGs/sdg15.png"
+      },
+      {
+        "goal": 16,
+        "title": "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+        "short": "Peace and Justice - Strong Institutions",
+    
+        "keywords": "Advances in ending violence, promoting the rule of law, strengthening institutions and increasing access to justice are uneven and continue to deprive millions of their security, rights and opportunities and undermine the delivery of public services and broader economic development. Attacks on civil society are also holding back development progress. Renewed efforts are essential to move towards the achievement of Sustainable Development Goal 16.",
+        "icon_url": "assets/SDGs/sdg16.png"
+      },
+      {
+        "goal": 17,
+        "title": "Strengthen the means of implementation and revitalize the global partnership for sustainable development",
+        "short": "Partnerships for the Goals",
+     
+     
+        "keywords": "Progress on some means of implementation targets is moving rapidly: personal remittances are at an all-time high, an increasing proportion of the global population has access to the Internet and the Technology Bank for the Least Developed Countries has been established. Yet, significant challenges remain: ODA is declining, private investment flows are not well aligned with sustainable development, there continues to be a significant digital divide and there are ongoing trade tensions. Enhanced international cooperation is needed to ensure that sufficient means of implementation exist to provide countries the opportunity to achieve the Sustainable Development Goals.",
+        "icon_url": "assets/SDGs/sdg17.png"
+      }
+    ]
+}
