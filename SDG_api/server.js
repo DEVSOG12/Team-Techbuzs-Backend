@@ -5,12 +5,14 @@ const router = jsonServer.router('main.json');
 const middlewares = jsonServer.defaults();
 const path = require('path');
 
+require('dotenv').config();
+
 const port = process.env.PORT || 3000;
 const cors =require('cors');
 const bodyParser = require('body-parser');
 var app = require('express')();
 const sgMail = require('@sendgrid/mail');
-sgMail.setApiKey('API_KEY_SENDGRID');
+sgMail.setApiKey(process.env.sendgrid);
 
 app.use(bodyParser.json());
 app.use(cors());
@@ -59,6 +61,41 @@ app.get('/', function(req, res,next) {res.  send({
       })
     
   })
+  app.post('/emailtrans', function(request, response, next) {
+    var name = request.body.name;
+    var email = request.body.email;
+    var subject = request.body.subject;
+    var message = request.body.message;
+    // console.log(request.body.email);
+    // console.log(request.body.message);
+    // console.log(request.body.subject ?? 'Mo subject');
+
+    if(email === null ||message === null ){
+      response.sendStatus(400);
+      }
+      
+    const msg = {
+      templateId: 'd-66115f866cb44726b5482fd385b0186d',
+      to: email,
+      from: 'Greeneva <greenhorizon@techbuzs.ml>', // Use the email address or domain you verified above
+      dynamicTemplateData: {
+        subject: subject,
+        name: `${name} `,
+        message: message
+      },
+    };
+      sgMail.send(msg)
+      .then(result => {
+        response.sendStatus(200)
+
+    })
+    .catch(err => {
+      console.log(err)
+      response.sendStatus(400)
+    })
+  
+})
+  
 app.use('/api', server.use(middlewares), server.use(router));
 // app.get("/status", function (request, response)  {
 //     // if (request.query.nonce == null) {
