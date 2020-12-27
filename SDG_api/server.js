@@ -95,21 +95,13 @@ app.get('/', function(req, res,next) {res.  send({
     })
   
 })
-  
+  // First API endpoint 
+  // This leads to the JSON API .. LOL :)
+  // Handles All JSON Information that has to with the Sustainable Development
 app.use('/api', server.use(middlewares), server.use(router));
-// app.get("/status", function (request, response)  {
-//     // if (request.query.nonce == null) {
-//       response.send({
-//         code: 200,
-//         message: "Welcome"
-//       })
-//     // }
-// })
-// app.use('/status', response.send({code: 200,message: "online"}));
 
-// server.use(middlewares);
-// server.use(router);
-// server.listen(port);
+// 
+
 const serverp = app.listen(process.env.PORT || 8080, ()=>     {console.log('listening on port %s...', serverp.address().port)}
 )
 // console.log($port)
